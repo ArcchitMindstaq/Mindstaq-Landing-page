@@ -1,8 +1,4 @@
-# 🚀 Welcome to Z.ai Code Scaffold
-
-
-
-## ✨ Mindstaq Landing Page Technology Stack
+✨ Mindstaq Landing Page Technology Stack
 
 This scaffold provides a robust foundation built with:
 
