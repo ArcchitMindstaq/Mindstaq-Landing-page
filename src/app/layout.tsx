@@ -14,21 +14,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Mindstaq AI-Native work management platform",
+  description: "Unify your projects, tasks, and team collaboration in one intelligent workspace. MindStaq eliminates technology bloat with AI-powered insights and seamless integration.",
+  keywords: ["MindStaq", "work management", "project management", "AI", "team collaboration", "Agile", "Waterfall", "OKR", "hybrid work"],
+  authors: [{ name: "Mindstaq team" }],
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "Mindstaq",
+    description: "AI-Native work management platform",
+    url: "www.mindstaq.com",
+    siteName: "mindstaq.com",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "Mindstaq AI-Native work management platform",
+    description: "Unify your projects, tasks, and team collaboration in one intelligent workspace. MindStaq eliminates technology bloat with AI-powered insights and seamless integration.",
   },
 };
 
